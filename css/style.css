@@ -1,0 +1,57 @@
+#logo{
+    width: 90px;
+    /* position: relative; */
+    /* margin: 10px 15px 15px 10px; */
+    display: inline-block;
+    float: left;
+    
+}
+body  {
+    background-image: url("../img/background.jpg");
+    background-color: #cccccc;
+  }
+  header{
+      background-color: yellow;
+      padding: 40px;
+  }
+  h1{
+      font-size: 55px;
+
+      color: red;
+      text-align:center;
+     font-style: oblique;
+  }
+  #sub{
+      background-color: red;
+      text-align:center;
+  }
+  label {
+      color: red;
+      font-style: oblique;
+  }
+  #left{
+      /* background-color: yellow; */
+  }
+  /* label,input {
+    display: block;
+    width: 150px;
+    float: left;
+    margin-bottom: 10px;
+   }
+   
+   label {
+    text-align: right;
+    width: 75px;
+    padding-right: 20px;
+   }
+   br {
+    clear: left;
+   } */
+   form {
+    display: inline-block;
+}
+select {
+
+    width:12.5em;
+    height:1.5em ;
+}
